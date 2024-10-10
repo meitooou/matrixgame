@@ -1,0 +1,5 @@
+Link para download do vídeo final e do audio (porque o GitHub não permitiu que eu subisse eles no repositório direto): https://drive.google.com/drive/folders/1q4bcsryy55XTNAEIYSTSwC1kGX3YMrTl?usp=sharing
+
+Baixe os arquivos e adicione-os à mesma pasta onde colocou os demais arquivos e códigos do jogo, após, entre no arquivo index.html
+
+OBS: NÃO ALTERAR O NOME OU A EXTENSÃO DELES
