@@ -22,4 +22,4 @@ História: Nicolas
 
 *EM BREVE DATABOOK COM LORE E PERSONAGENS, MANUAL DO JOGO E VERSÃO BETA
 
-*OBS: Este jogo é apenas um alfa testing, uma versão meramente demonstrativa e absolutamente incompleta com relação à história e conclusão (além de correção de bugs) sujeita a alterações, correções e auxílios de terceiros para aperfeiçoamentos no jogo de maneira ampla.
+*OBS: Este jogo só possui a primeira fase, que ainda é apenas um alfa testing, uma versão meramente demonstrativa e absolutamente incompleta com relação à história e conclusão (além de correção de bugs) sujeita a alterações, correções e auxílios de terceiros para aperfeiçoamentos no jogo de maneira ampla.
