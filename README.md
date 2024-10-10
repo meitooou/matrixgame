@@ -1,6 +1,10 @@
 # matrixgame
 versão 0.0.1 - alfa testing
 
+Matrix é um jogo que visa ensinar um pouco de lógica de programação e aplicação de alguns conceitos e funções da mesma.
+
+Envolto em uma história ainda indefinida, Matrix está em fase de testes e de construção, esperando alcançar seu fim: um 10 bem grande.
+
 *Componentes do grupo:
 
 Adrieli Alcantara Fernandes
